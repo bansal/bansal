@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Jitender Bansal 👋  
 
-<!--
-**bansal/bansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder of [Folder](https://folder.run)** – A self-hosted Google Drive alternative with Cloudflare R2 & D1.  
+💡 **Indie Maker & Full-Stack Developer** – Specializing in **SaaS, AI Assistants, and Custom CRM Development**.  
+🎯 **Helping startups & businesses** build scalable web apps, AI-powered tools, and digital products.  
 
-Here are some ideas to get you started:
+### 🔹 What I Do  
+- **Custom SaaS & MVP Development** – Got an idea? Let’s turn it into a product.  
+- **AI Integration** – AI Assistants, vector search, chatbot solutions.  
+- **Cloud & Serverless Solutions** – Scalable apps using Cloudflare, Supabase, and more.  
+- **Open Source** – Actively building [Folder](https://github.com/bansal/folder).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work With Me  
+Looking for a **custom development solution** or **AI-powered tool**?  
+📩 DM me or reach out via **[Kickstart.run](https://kickstart.run)**  
